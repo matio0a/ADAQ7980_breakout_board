@@ -1,0 +1,6 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "ADAQ_breakout") (type "KiCad") (uri "F:/KiCad_projects/ADAQ7980_breakout_board/libraries/footprints/ADAQ_breakout.pretty") (options "") (descr ""))
+	(lib (name "footprints") (type "KiCad") (uri "F:/KiCad_projects/ADAQ7980_breakout_board/libraries/footprints.pretty") (options "") (descr ""))
+	(lib (name "KiCad") (type "KiCad") (uri "F:/KiCad_projects/KiCad.pretty") (options "") (descr ""))
+)
