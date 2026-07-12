@@ -3,6 +3,7 @@ A KiCad project of a breakout board design for ADAQ7980 - 16-bit 1 MSPS Analog-t
 The project contains the necessary symbols and footprints, as well as the schematics and PCB layout of a breakout board that can be used for rapid prototyping with ADAQ7980. 
 
 **Board description:**
+
   - ADAQ7980 pins are accessible through the external pin headers.
   - The IN+ pin is additionally accessible through the on-board SMA-connector. The input pin is 50 Ohm-terminated.
   - A 4.096 V precision voltage reference (ADR4540) is used to fix the ADC range.
@@ -13,6 +14,7 @@ The project contains the necessary symbols and footprints, as well as the schema
   - V- line is accessible through the dedicaed pin header. Place a jumper between V- and GND pins to operate in a single-supply mode.
 
 **To do:**
+
   - Redo the board layout.
   - Create production files.
 
